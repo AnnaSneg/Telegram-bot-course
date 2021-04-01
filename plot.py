@@ -1,6 +1,7 @@
 """
 The module returns a graph of the dynamics of the currency exchange rate for the period.
 """
+
 import matplotlib.pyplot as plt
 import db
 
