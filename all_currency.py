@@ -75,5 +75,5 @@ all_currency = [
 def get_r0(ccy):
     for i in all_currency:
         if ccy in i:
-            return i[3] #return the RO value for urlmonth in the month module
+            return i[3] #return the R0 value for urlmonth in the month module
 
