@@ -1,6 +1,6 @@
 """
 A module for determining the specific currency code (R0) used to determine the dynamics of exchange rates.
-The data is applied in the module all_currency.py
+The data is applied in the module all_currency.py.
 """
 from xml.etree import ElementTree
 import urllib.request
