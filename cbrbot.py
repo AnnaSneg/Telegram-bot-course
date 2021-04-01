@@ -1,7 +1,7 @@
 """
 Telegram bot.
 The bot outputs the exchange rate of the Central Bank of the selected currency for today or returns a chart of exchange
-rate fluctuations for the period.
+rate fluctuations for the period. 
 """
 from telegram.ext import Updater, CommandHandler
 
