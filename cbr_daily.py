@@ -1,5 +1,5 @@
 """
-Module for determining the current exchange rate of a given currency.
+Module for determining the current exchange rate of a given currency. 
 """
 
 import requests
