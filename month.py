@@ -1,6 +1,7 @@
 """
 The module returns data on the exchange rate for the selected period from the official website of the Central Bank.
 """
+
 import requests
 from bs4 import BeautifulSoup
 from all_currency import get_r0
