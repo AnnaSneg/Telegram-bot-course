@@ -1,6 +1,6 @@
 """
 Data on previously requested courses is recorded in the database. And at the next request, if the courses for the period
-are already in the database, they are taken from the database, and not again from the web site.
+are already in the database, they are taken from the database, and not again from the web site. 
 """
 
 import sqlite3
